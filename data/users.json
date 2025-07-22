@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "9fa2",
+      "fullName": "Holger Andre",
+      "email": "holger.andre@example.com",
+      "phone": "076 672 12 09",
+      "profileImage": "https://randomuser.me/api/portraits/men/80.jpg"
+    },
+    {
+      "id": "813c",
+      "fullName": "Ali Abacı",
+      "email": "ali.abaci@example.com",
+      "phone": "(116)-935-2218",
+      "profileImage": "https://randomuser.me/api/portraits/men/19.jpg"
+    },
+    {
+      "id": "5c0f",
+      "fullName": "Viljami Waisanen",
+      "email": "viljami.waisanen@example.com",
+      "phone": "07-428-577",
+      "profileImage": "https://randomuser.me/api/portraits/men/9.jpg"
+    },
+    {
+      "id": "420f",
+      "fullName": "Anka Vlahović",
+      "email": "anka.vlahovic@example.com",
+      "phone": "026-0788-721",
+      "profileImage": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    {
+      "id": "e38d",
+      "fullName": "Naja Mortensen",
+      "email": "naja.mortensen@example.com",
+      "phone": "33896253",
+      "profileImage": "https://randomuser.me/api/portraits/women/28.jpg"
+    },
+    {
+      "id": "12b5",
+      "fullName": "Ceyhun Keçeci",
+      "email": "ceyhun.kececi@example.com",
+      "phone": "(040)-984-6671",
+      "profileImage": "https://randomuser.me/api/portraits/men/48.jpg"
+    },
+    {
+      "id": "d452",
+      "fullName": "Dharun Hiremath",
+      "email": "dharun.hiremath@example.com",
+      "phone": "8754328200",
+      "profileImage": "https://randomuser.me/api/portraits/men/25.jpg"
+    },
+    {
+      "id": "22ea",
+      "fullName": "Niklas Ranta",
+      "email": "niklas.ranta@example.com",
+      "phone": "03-812-209",
+      "profileImage": "https://randomuser.me/api/portraits/men/59.jpg"
+    }
+  ]
+}
